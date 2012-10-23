@@ -14,9 +14,9 @@ OR
 
 in ~/.bash_login, .bashrc, or .bash_profile as you choose (this depends on how you normally use bash as well). While I haven't tested this, I believe that it should work with zsh or other bash-clone shells.
 
-Output once in place will be similar to the following; change the bash flags within .gitbashps1 as needed.
+Output once in place will be similar to the following; change the bash flags within .gitbashps1 as needed:
 
-
+macmini2:gitps1 marty [master] $ 
 
 Marty Turner 23 October 2012
 mdturnerinoz@gmail.com
